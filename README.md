@@ -1,4 +1,5 @@
 # forkify Project
+To check it out first: https://forkify-malik.netlify.app/
 
 Description:
 Welcome to the Forkify Recipe App repository, a delightful culinary companion designed to revolutionize your cooking experience. Forkify is an interactive and user-friendly web application that allows you to discover, save, and cook a vast array of delicious recipes from around the world.
